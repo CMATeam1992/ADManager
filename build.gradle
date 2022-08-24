@@ -3,6 +3,11 @@ plugins {
     id 'kotlin-android'
 }
 
+apply plugin: 'maven'
+
+group = 'com.github.CMATeam1992'
+
+
 android {
     compileSdkVersion 31
     buildToolsVersion "31.0.0"
