@@ -12,6 +12,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "AdSample"
+rootProject.name = "Sample"
 include ':app'
-include ':cma_admanager'
+include ':ADManager'

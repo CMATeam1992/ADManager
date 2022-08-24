@@ -1,4 +1,4 @@
-package com.adsample
+package com.sample
 
 import org.junit.Test
 
